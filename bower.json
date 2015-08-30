@@ -1,0 +1,27 @@
+{
+  "name": "amber-teamsnap-api",
+  "version": "1.0.0",
+  "description": "Testing Teamsnap.js - App to display and delete members in your TeamSnap team.",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Amber Webb"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  },
+  "devDependencies": {
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4"
+  }
+}
